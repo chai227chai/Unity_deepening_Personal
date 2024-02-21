@@ -39,6 +39,7 @@
      ![image](https://github.com/chai227chai/Unity_deepening_Personal/assets/37549333/1aa48299-1ef9-4be4-87b8-91a74715af76)
 
      - 게임이 시작되면 3초의 카운트다운 이후 start문구가 뜨면서 본격적인 피하기 게임이 시작됩니다.
+     - 스페이스바를 눌러 점프할 수 있으며, Shift나 마우스 오른쪽 버튼을 누르고 있는 동안 대시할 수 있습니다.
     
      ![image](https://github.com/chai227chai/Unity_deepening_Personal/assets/37549333/1bbe9187-a63e-484a-bac9-180c29112494)
 
